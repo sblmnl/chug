@@ -114,7 +114,7 @@ Alice wants to say `hello` to Bob, but she wants everyone to think she's saying 
 
 ## Implementations
 
-- **C#** - [**ChugSharp**](https://github.com/sblmnl/ChugSharp) by [**sblmnl**](https://github.com/sblmnl)
+- **C#** - [**ChugSharp**](https://github.com/sblmnl/chug-sharp) by [**sblmnl**](https://github.com/sblmnl)
 
 ## Suggestions & Bug Reports
 
