@@ -3,24 +3,6 @@
 
 A [symmetric-key algorithm](https://en.wikipedia.org/wiki/Symmetric-key_algorithm) and collection of padding algorithms.
 
-## Table of Contents
-
-- [Disclaimer](#disclaimer)
-- [Security Rating](#security-rating)
-- [Known Vulnerabilities](#known-vulnerabilities)
-- [Overview](#overview)
-    - [Padding](#padding)
-        - [Zero Suffixed Random](#zero-suffixed-random)
-        - [Length Prefixed Random](#length-prefixed-random)
-    - [Encryption](#encryption)
-    - [Decryption](#decryption)
-    - [Variable Definitions](#variable-definitions)
-- [Use as a One-time Pad](#use-as-a-one-time-pad)
-- [Implementations](#implementations)
-- [Suggestions & Bug Reports](#suggestions--bug-reports)
-- [Credits](#credits)
-- [License](#license)
-
 ## Disclaimer
 
 Chug is an enthusiast algorithm and is not intended for use in any security applications.
@@ -30,10 +12,6 @@ Chug is an enthusiast algorithm and is not intended for use in any security appl
 - [Known plaintext attack](https://gist.github.com/sblmnl/222c786ddebd00e2dbae7ab361fb2618)
 
 Have a vulnerability to report? Open an [issue](https://github.com/sblmnl/Chug/issues) and attach any code or documentation you have for the vulnerability.
-
-## Security Rating
-
-The security rating of [Chug](https://github.com/sblmnl/chug), if used as a conventional [symmetric-key algorithm](https://en.wikipedia.org/wiki/Symmetric-key_algorithm), is **8-bits**.
 
 ## Overview
 
